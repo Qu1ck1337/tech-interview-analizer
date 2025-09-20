@@ -1,0 +1,7 @@
+output_dir: results
+qa_low_threshold: 6.0
+study_guide:
+  max_qa_hotspots: 20
+models:
+  mistakes: gemini-2.0-flash
+  qa: gemini-2.0-flash
